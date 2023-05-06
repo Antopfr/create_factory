@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_confectionery"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "amount": 250,
+      "fluid": "create_confectionery:caramel"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_factory:caramel_roll"
+    }
+  ]
+}

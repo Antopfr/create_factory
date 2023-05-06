@@ -1,0 +1,12 @@
+{
+  "item.create_factory.chocolate_roll": "Rollo de chocolate",
+  "item.create_factory.honey_glazed_berries": "Honey Glazed Berries",
+  "item.create_factory.chocolate_apple": "Manzana chocolatada",
+  "item.create_factory.caramel_roll": "Rollo de caramelo",
+  "item.create_factory.dark_chocolate_roll": "Rollo de chocolate negro",
+  "item.create_factory.honey_roll": "Rollo de miel",
+  "item.create_factory.ruby_chocolate_roll": "Rollo de chocolate rubí",
+  "item.create_factory.white_chocolate_roll": "Rollo de chocolate blanco",
+
+  "itemGroup.create_factory_tab": "Create: Factory"
+}

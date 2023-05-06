@@ -1,0 +1,12 @@
+{
+  "item.create_factory.chocolate_roll": "초콜릿 롤빵",
+  "item.create_factory.honey_glazed_berries": "꿀 바른 열매",
+  "item.create_factory.chocolate_apple": "초콜릿 사과",
+  "item.create_factory.caramel_roll": "카라멜 롤빵",
+  "item.create_factory.dark_chocolate_roll": "다크 초콜릿 롤빵",
+  "item.create_factory.honey_roll": "꿀 롤빵",
+  "item.create_factory.ruby_chocolate_roll": "루비 초콜릿 롤빵",
+  "item.create_factory.white_chocolate_roll": "화이트 초콜릿 롤빵",
+
+  "itemGroup.create_factory_tab": "Create: Factory"
+}

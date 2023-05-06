@@ -1,0 +1,12 @@
+{
+  "item.create_factory.chocolate_roll": "Chocolate Roll",
+  "item.create_factory.honey_glazed_berries": "Honey Glazed Berries",
+  "item.create_factory.chocolate_apple": "Chocolate Apple",
+  "item.create_factory.caramel_roll": "Caramel Roll",
+  "item.create_factory.dark_chocolate_roll": "Dark Chocolate Roll",
+  "item.create_factory.honey_roll": "Honey Roll",
+  "item.create_factory.ruby_chocolate_roll": "Ruby Chocolate Roll",
+  "item.create_factory.white_chocolate_roll": "White Chocolate Roll",
+
+  "itemGroup.create_factory_tab": "Create: Factory"
+}

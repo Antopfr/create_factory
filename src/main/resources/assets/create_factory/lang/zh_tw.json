@@ -1,0 +1,12 @@
+{
+  "item.create_factory.chocolate_roll": "巧克力蛋糕捲",
+  "item.create_factory.honey_glazed_berries": "Honey Glazed Berries",
+  "item.create_factory.chocolate_apple": "巧克力蘋果",
+  "item.create_factory.caramel_roll": "焦糖蛋糕卷",
+  "item.create_factory.dark_chocolate_roll": "黑巧克力卷",
+  "item.create_factory.honey_roll": "蜂蜜蛋糕卷",
+  "item.create_factory.ruby_chocolate_roll": "紅寶石巧克力卷",
+  "item.create_factory.white_chocolate_roll": "白巧克力蛋糕捲",
+
+  "itemGroup.create_factory_tab": "Create: Factory"
+}
