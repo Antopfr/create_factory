@@ -1,7 +1,6 @@
 package net.antopfr.create_factory;
 
 import com.mojang.logging.LogUtils;
-import net.antopfr.create_factory.block.ModBlocks;
 import net.antopfr.create_factory.item.ModItems;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -22,7 +21,6 @@ public class CreateFactory {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(modEventBus);
-        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
