@@ -37,8 +37,6 @@ public class CreateFactory {
     public static class ClientModEvents {
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event) {
-          //  ItemBlockRenderTypes.setRenderLayer(ModFluids.SOURCE_SPREAD.get(), RenderType.translucent());
-          //  ItemBlockRenderTypes.setRenderLayer(ModFluids.FLOWING_SPREAD.get(), RenderType.translucent());
         }
     }
 }
