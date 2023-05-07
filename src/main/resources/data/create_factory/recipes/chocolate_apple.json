@@ -2,7 +2,7 @@
     "type": "create:filling",
   "ingredients": [
     {
-      "item": "minecraft:sweet_berries"
+      "item": "minecraft:apple"
     },
     {
       "amount": 250,
