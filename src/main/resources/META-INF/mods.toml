@@ -67,6 +67,6 @@ description='''
 [[dependencies.create_factory]]
 modId="create"
 mandatory=true
-versionRange="[0.5,)"
+versionRange="[0.5.0.i,)"
 ordering="NONE"
 side="BOTH"
