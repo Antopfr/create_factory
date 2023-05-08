@@ -11,8 +11,9 @@
       "item": "minecraft:bread"
     },
     {
-      "amount": 250,
-      "fluid": "create_confectionery:ruby_chocolate"
+      "fluid": "create_confectionery:ruby_chocolate",
+      "nbt": {},
+      "amount": 250
     }
   ],
   "results": [
