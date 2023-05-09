@@ -1,9 +1,7 @@
 package net.antopfr.create_factory.item;
 
-import com.mojang.blaze3d.shaders.Effect;
 import net.antopfr.create_factory.CreateFactory;
 import net.antopfr.create_factory.block.CreativeTab;
-import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
